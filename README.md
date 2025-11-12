@@ -1,2 +1,2 @@
-# ckd_flask_test_1
-ckd_flask_test_1
+# Flask_project
+This is a simple flask project
